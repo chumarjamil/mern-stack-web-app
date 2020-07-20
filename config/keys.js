@@ -3,5 +3,7 @@ module.exports = {
     googleClientSecert: 'YOUR CLIENT SECERT',
 
     //MongoDB URI
-    mongoURI: 'YOUR mongoDB URL for Connectivity'
+    //Password for db: RNvpWO0SthrhTcUy
+    mongoURI: 'Your mongoDB URL',
+    cookieKey: 'Any character like e.g dasdasdasdas'
 };
